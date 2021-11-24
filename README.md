@@ -7,6 +7,7 @@
   <img alt="statstech" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erwann-M&theme=blue-green" />
 </p>
 
+<p>
 <h2 align="center">💻The techs I use :</h2>
 
 <p align="center">
@@ -28,4 +29,5 @@
   <img alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+</p>
 </p>
