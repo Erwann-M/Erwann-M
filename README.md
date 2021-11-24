@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my GitHub profile</h1>
 
-<p>I am a nomadic French developer. I like the code💻, the life4️⃣2️⃣, the travel✈️ and all that is eaten.🍔I am very interested in blockchain technologies and the web in general</p>
+<p>I am a nomadic French developer. I like the cod, the life, the travel and all that is eaten.🍔</br>I am very interested in blockchain technologies and the web in general</p>
 
 <p align="center">
   <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=Erwann-M&theme=blue-green" />
