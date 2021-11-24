@@ -1,11 +1,11 @@
 <h1 align="center">Welcome to my GitHub profile</h1>
 
-<p>
+<p>I am a nomadic French developer. I like the code💻, the life4️⃣2️⃣, the travel✈️ and all that is eaten.🍔I am very interested in blockchain technologies and the web in general</p>
+
+<p align="center">
   <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=Erwann-M&theme=blue-green" />
   <img alt="statstech" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erwann-M&theme=blue-green" />
 </p>
-
-<p>I am a nomadic French developer. I like the code💻, the life4️⃣2️⃣, the travel✈️ and all that is eaten.🍔I am very interested in blockchain technologies and the web in general</p>
 
 <h2>The techs that I know :</h2>
 
@@ -16,5 +16,5 @@
   <img alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="typiscript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
