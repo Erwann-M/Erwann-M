@@ -2,7 +2,7 @@
 
 <p>I am a nomadic French developer. I like the cod, the life, the travel and all that is eaten.🍔</br>I am very interested in blockchain technologies and the web in general</p>
 
-<p align="space-between">
+<p align="center">
   <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=Erwann-M&theme=blue-green" />
   <img alt="statstech" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erwann-M&theme=blue-green" />
 </p>
