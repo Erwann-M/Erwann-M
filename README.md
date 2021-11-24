@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my GitHub profile</h1>
+<h1 align="center">👋Welcome to my GitHub profile👋</h1>
 
 <p>I am a nomadic French developer. I like the cod, the life, the travel and all that is eaten.🍔</br>I am very interested in blockchain technologies and the web in general</p>
 
@@ -7,7 +7,7 @@
   <img alt="statstech" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erwann-M&theme=blue-green" />
 </p>
 
-<h2 align="center">The techs I use :</h2>
+<h2 align="center">💻The techs I use :</h2>
 
 <p align="center">
   <img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -19,7 +19,7 @@
   <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
-<h2 align="center">the techs I learn :</h2>
+<h2 align="center">🔬the techs I learn :</h2>
 
 <p align="center">
   <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
