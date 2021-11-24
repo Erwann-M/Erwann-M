@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my GitHub profile</h1>
 
-<img alt="stats" src="https://github-readme-stats.vercel.app/api?username={Erwann-M}&theme=blue-green" />
+<img alt="stats" src="https://github-readme-stats.vercel.app/api?username=Erwann-M&theme=blue-green" />
 
 <p>I am a nomadic French developer. I like the code💻, the life4️⃣2️⃣, the travel✈️ and all that is eaten.🍔I am very interested in blockchain technologies and the web in general</p>
 
