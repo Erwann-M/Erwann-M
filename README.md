@@ -2,7 +2,7 @@
 
 <img alt="github-stats" align="right" src="https://github-readme-stats.vercel.app/api?username=Erwann-M&theme=onedark&show_icons=true" />
 
-I am a nomadic French developer. I like the code, the life, the travel and all that is eaten.🍔</br>I am very interested in blockchain technologies and the web in general
+I am a nomadic French developer. I like the code, the life, the travel and all that is eaten.🍔
 
 <h2>💻Techs I use</h2>
 
@@ -15,21 +15,29 @@ I am a nomadic French developer. I like the code, the life, the travel and all t
 >  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height=25 />
 >  <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height=25 />
 >  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" height=25 />
-></p>
+  <br>
+</p>
 
-<br>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erwann-M&layout=compact&theme=onedark" />
-<br>
-<br>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erwann-M&layout=compact&theme=onedark" height=200 />
 
 <div align="right">
-  <h2>🔬Techs I learn</h2>
+  <h3>🔬Techs I learn</h3>
 
   <p>
     <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height=25 />
     <img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" height=25 />
     <img alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height=25 />
     <img alt="rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" height=25 />
+  </p>
+</div>
+<div align="right">
+  <h3>My favorite OS</h3>
+
+  <p>
+    <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height=25 />
+    <img alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height=25 />
+    <img alt="android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height=25 />
+    <img alt="linuxmint" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" height=25 />
   </p>
 </div>
 
