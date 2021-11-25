@@ -17,7 +17,10 @@ I am a nomadic French developer. I like the code, the life, the travel and all t
 >  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" height=23 />
 ></p>
 
+<br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erwann-M&layout=compact&theme=dark" />
+<br>
+<br>
 
 <div align="right">
   <h2>🔬Techs I learn</h2>
@@ -30,7 +33,7 @@ I am a nomadic French developer. I like the code, the life, the travel and all t
   </p>
 </div>
 
-<div align="bottom">
+<div align="center">
   <h2>Contacts</h2>
 
   <p>
