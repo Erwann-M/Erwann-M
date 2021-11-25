@@ -1,4 +1,4 @@
-<h1 align="center">👋 Welcome to my GitHub profile 👋</h1>
+<h1 align="center">👋 Welcome to my GitHub profile 👋<br><br></h1>
 
 <br>
 <img alt="github-stats" align="right" src="https://github-readme-stats.vercel.app/api?username=Erwann-M&theme=onedark&show_icons=true" />
