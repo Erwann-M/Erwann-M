@@ -20,8 +20,8 @@ I am a nomadic French developer. I like the code, the life, the travel and all t
 
 <details>
   <summary>Language stats ...</summary>
-  <p align="center">
-    <img src="https://wakatime.com/share/@aa76adae-367f-431e-bc41-ea2b873388b6/3301fe5e-b09e-463b-8e14-11bd58673dd0.svg" height=500 />
+  <p align="left">
+    <img src="https://wakatime.com/share/@aa76adae-367f-431e-bc41-ea2b873388b6/3301fe5e-b09e-463b-8e14-11bd58673dd0.svg" height=400 />
   </p>
 </details>
 
