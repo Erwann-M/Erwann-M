@@ -29,3 +29,8 @@
   <img alt="rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 </p>
+
+<!--START_SECTION:waka-->
+SHOW_LINES_OF_CODE
+<!--END_SECTION:waka-->
+
