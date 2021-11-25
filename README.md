@@ -53,5 +53,4 @@ I am a nomadic French developer. I like the code, the life, the travel and all t
 </div>
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
