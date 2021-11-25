@@ -53,8 +53,5 @@ I am a nomadic French developer. I like the code, the life, the travel and all t
 </div>
 
 <!--START_SECTION:waka-->
-```text
-JSON   11 mins         █████████████████▓░░░░░░░   71.13 % 
-HTML   4 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.33 % 
-```
+
 <!--END_SECTION:waka-->
