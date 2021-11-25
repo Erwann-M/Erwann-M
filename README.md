@@ -4,7 +4,7 @@
 
 I am a nomadic French developer. I like the code, the life, the travel and all that is eaten.🍔</br>I am very interested in blockchain technologies and the web in general
 
-<h2>💻Techs I use :</h2>
+<h2>💻Techs I use</h2>
 
 ><p>
 >  <img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height=23 />
@@ -25,7 +25,7 @@ I am a nomadic French developer. I like the code, the life, the travel and all t
 </details>
 
 <div align="right">
-  <h2>🔬Techs I learn :</h2>
+  <h2>🔬Techs I learn</h2>
 
   <p>
     <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height=23 />
@@ -34,6 +34,13 @@ I am a nomadic French developer. I like the code, the life, the travel and all t
     <img alt="rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" height=23 />
   </p>
 </div>
-<h2>Socials :</h2>
+
+<div align="center">
+  <h2>Contacts</h2>
+
+  <p>
+    <a href="https://www.linkedin.com/in/erwann-martin-988b21158"><img alt="linkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=23 /></a>
+  </p>
+</div>
 
 
