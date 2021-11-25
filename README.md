@@ -9,7 +9,7 @@
   </p>
 </details>
 
-<h2 align="center">💻Techs I use :</h2>
+<h2>💻Techs I use :</h2>
 
 <p align="center">
   <img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height=23 />
@@ -29,14 +29,13 @@
   </p>
 </details>
 
-<h2 align="center">🔬Techs I learn :</h2>
+<h2>🔬Techs I learn :</h2>
 
 <p align="center">
   <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height=23 />
   <img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" height=23 />
   <img alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height=23 />
   <img alt="rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" height=23 />
-  <img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" height=23 />
 </p>
 
 <!--START_SECTION:waka-->
