@@ -7,7 +7,7 @@
   <img alt="statstech" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erwann-M&theme=blue-green" />
 </p>
 
-<h2 align="center">💻The techs I use :</h2>
+<h2 align="center">💻Techs I use :</h2>
 
 <p align="center">
   <img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -20,7 +20,7 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<h2 align="center">🔬the techs I learn :</h2>
+<h2 align="center">🔬Techs I learn :</h2>
 
 <p align="center">
   <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
