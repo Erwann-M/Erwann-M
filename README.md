@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232054F7&size=70&center=true&vCenter=true&width=1000&height=90&lines=Welcome+to+my+profile+!)](https://git.io/typing-svg)
-
+<h1 align="center">👋 Welcome to my GitHub profile 👋</h1>
 
 <br>
 <img alt="github-stats" align="right" src="https://github-readme-stats.vercel.app/api?username=Erwann-M&theme=onedark&show_icons=true" />
@@ -42,6 +41,8 @@ I am a nomadic French developer. I like the code, the life, the travel and all t
     <img alt="linuxmint" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" height=25 />
   </p>
 </div>
+
+<br>
 
 <div align="center">
   <h2>✉️Contacts</h2>
