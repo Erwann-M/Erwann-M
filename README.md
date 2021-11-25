@@ -4,7 +4,6 @@
 
 <p align="center">
   <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=Erwann-M&theme=blue-green" />
-  <img alt="statstech" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erwann-M&theme=blue-green" />
 </p>
 
 <h2 align="center">💻Techs I use :</h2>
@@ -31,6 +30,5 @@
 </p>
 
 <!--START_SECTION:waka-->
-SHOW_LINES_OF_CODE
 <!--END_SECTION:waka-->
 
