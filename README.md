@@ -40,6 +40,7 @@ I am a nomadic French developer. I like the code, the life, the travel and all t
 
   <p>
     <a href="https://www.linkedin.com/in/erwann-martin-988b21158"><img alt="linkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=23 /></a>
+    <a href="rwnnmrtn@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23 /></a>
   </p>
 </div>
 
