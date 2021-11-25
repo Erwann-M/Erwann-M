@@ -17,12 +17,12 @@
   <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height=23 />
   <img alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height=23 />
   <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height=23 />
-  <img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height=23 />
+  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height=23 />
   <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height=23 />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" height=23 />
 </p>
 
-<details align="center">
+<details>
   <summary>Language stats ...</summary>
   <p align="center">
     <img src="https://wakatime.com/share/@aa76adae-367f-431e-bc41-ea2b873388b6/3301fe5e-b09e-463b-8e14-11bd58673dd0.svg" height=500 />
