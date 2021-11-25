@@ -1,4 +1,5 @@
-<h1 align="center">👋Welcome to my GitHub profile👋</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232054F7&size=70&center=true&vCenter=true&width=1000&height=90&lines=Welcome+to+my+profile+!)](https://git.io/typing-svg)
+
 
 <br>
 <img alt="github-stats" align="right" src="https://github-readme-stats.vercel.app/api?username=Erwann-M&theme=onedark&show_icons=true" />
