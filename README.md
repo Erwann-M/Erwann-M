@@ -36,7 +36,7 @@ I am a nomadic French developer. I like the code, the life, the travel and all t
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erwann-M&layout=compact&theme=onedark" height=200 />
 
 <div align="right">
-  <h3>🔬Techs I learn</h3>
+  <h2>🔬Techs I learn</h3>
 
   <p>
     <img alt="react" src="img/react.png" height=30 title="React" />
@@ -51,7 +51,7 @@ I am a nomadic French developer. I like the code, the life, the travel and all t
   </p>
 </div>
 <div align="right">
-  <h3>🖥My favorite OS</h3>
+  <h2>🖥My favorite OS</h3>
 
   <p>
     <img alt="ubuntu" src="img/ubuntu.png" height=35 title="Ubuntu" />
