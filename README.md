@@ -1,7 +1,8 @@
 <h1 align="center">👋 Welcome to my GitHub profile ! 👋<br><br></h1>
 
 <br>
-<img alt="github-stats" align="right" src="https://github-readme-stats.vercel.app/api?username=Erwann-M&theme=onedark&show_icons=true" />
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erwann-M&layout=compact&theme=onedark" height=200 />
 
 <p>Hi, I'm Erwann.<br> I am a young French developer. I have been living nomadically for several years, I am passionate about development and tech in general.</p>
 
@@ -34,7 +35,7 @@
   <br>
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erwann-M&layout=compact&theme=onedark" height=200 />
+<img alt="github-stats" align="left" src="https://github-readme-stats.vercel.app/api?username=Erwann-M&theme=onedark&show_icons=true" />
 
 <div align="right">
   <h2>🔬 Techs I learn</h3>
