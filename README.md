@@ -33,6 +33,8 @@
   <br>
   <br>
 </p>
+<hr>
+<br>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erwann-M&layout=compact&theme=onedark" height=200 />
 
@@ -78,6 +80,3 @@
     <a href="https://twitter.com/ErwannMartin3"><img alt="twitter" src="img/twitter.png" height=40 /></a>
   </p>
 </div>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
