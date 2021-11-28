@@ -7,29 +7,29 @@ I am a nomadic French developer. I like the code, the life, the travel and all t
 
 <h2>🛠Techs I use</h2>
 
-><p>
->  <img alt="html" src="img/html.png" height=30 title="HTML" />
->  <img height="30" hspace="5"/>
->  <img alt="css" src="img/css.png" height=30 title="CSS" />
->  <img height="30" hspace="5"/>
->  <img alt="php" src="img/php.png" height=30 title="PHP" />
->  <img height="30" hspace="5"/>
->  <img alt="sass" src="img/sass.png" height=30 title="Sass" />
->  <img height="30" hspace="5"/>
->  <img alt="mysql" src="img/mysql.png" height=30 title="MySQL" />
->  <img height="30" hspace="5"/>
->  <img alt="javascript" src="img/js.png" height=30 title="JavaScript" />
->  <img height="30" hspace="5"/>
->  <img alt="typescript" src="img/typescript.png" height=30 title="TypeScript" />
->  <img height="30" hspace="5"/>
->  <img alt="git" src="img/git.png" height=30 title="Git" />
->  <img height="30" hspace="5"/>
->  <img alt="terminal" src="img/terminal.png" height="30" title="Terminal & CLI" />
->  <img height="30" hspace="5"/>
->  <img alt="metaplex" src="img/metaplex.png" height="30" title="Metaplex CLI" />
->  <img height="30" hspace="5"/>
->  <img alt="solana" src="img/solana.png" height="30" title="Solana CLI" />
->  <img height="30" hspace="5"/>
+<p>
+  <img alt="html" src="img/html.png" height=30 title="HTML" />
+  <img height="30" hspace="5"/>
+  <img alt="css" src="img/css.png" height=30 title="CSS" />
+  <img height="30" hspace="5"/>
+  <img alt="php" src="img/php.png" height=30 title="PHP" />
+  <img height="30" hspace="5"/>
+  <img alt="sass" src="img/sass.png" height=30 title="Sass" />
+  <img height="30" hspace="5"/>
+  <img alt="mysql" src="img/mysql.png" height=30 title="MySQL" />
+  <img height="30" hspace="5"/>
+  <img alt="javascript" src="img/js.png" height=30 title="JavaScript" />
+  <img height="30" hspace="5"/>
+  <img alt="typescript" src="img/typescript.png" height=30 title="TypeScript" />
+  <img height="30" hspace="5"/>
+  <img alt="git" src="img/git.png" height=30 title="Git" />
+  <img height="30" hspace="5"/>
+  <img alt="terminal" src="img/terminal.png" height="30" title="Terminal & CLI" />
+  <img height="30" hspace="5"/>
+  <img alt="metaplex" src="img/metaplex.png" height="30" title="Metaplex CLI" />
+  <img height="30" hspace="5"/>
+  <img alt="solana" src="img/solana.png" height="30" title="Solana CLI" />
+  <img height="30" hspace="5"/>
   <br>
 </p>
 
