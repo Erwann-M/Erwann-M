@@ -8,14 +8,28 @@ I am a nomadic French developer. I like the code, the life, the travel and all t
 <h2>🛠Techs I use</h2>
 
 ><p>
->  <img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height=22 />
->  <img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height=22 />
->  <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height=22 />
->  <img alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height=22 />
->  <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height=22 />
->  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height=22 />
->  <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height=22 />
->  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" height=22 />
+>  <img alt="html" src="img/html.png" height=30 title="HTML" />
+>  <img height="30" hspace="5"/>
+>  <img alt="css" src="img/css.png" height=30 title="CSS" />
+>  <img height="30" hspace="5"/>
+>  <img alt="php" src="img/php.png" height=30 title="PHP" />
+>  <img height="30" hspace="5"/>
+>  <img alt="sass" src="img/sass.png" height=30 title="Sass" />
+>  <img height="30" hspace="5"/>
+>  <img alt="mysql" src="img/mysql.png" height=30 title="MySQL" />
+>  <img height="30" hspace="5"/>
+>  <img alt="javascript" src="img/js.png" height=30 title="JavaScript" />
+>  <img height="30" hspace="5"/>
+>  <img alt="typescript" src="img/typescript.png" height=30 title="TypeScript" />
+>  <img height="30" hspace="5"/>
+>  <img alt="git" src="img/git.png" height=30 title="Git" />
+>  <img height="30" hspace="5"/>
+>  <img alt="terminal" src="img/terminal.png" height="30" title="Terminal & CLI" />
+>  <img height="30" hspace="5"/>
+>  <img alt="metaplex" src="img/metaplex.png" height="30" title="Metaplex CLI" />
+>  <img height="30" hspace="5"/>
+>  <img alt="solana" src="img/solana.png" height="30" title="Solana CLI" />
+>  <img height="30" hspace="5"/>
   <br>
 </p>
 
@@ -25,20 +39,28 @@ I am a nomadic French developer. I like the code, the life, the travel and all t
   <h3>🔬Techs I learn</h3>
 
   <p>
-    <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height=25 />
-    <img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" height=25 />
-    <img alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height=25 />
-    <img alt="rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" height=25 />
+    <img alt="react" src="img/react.png" height=30 title="React" />
+    <img height="30" hspace="5"/>
+    <img alt="redux" src="img/redux.png" height=30 title="Redux" />
+    <img height="30" hspace="5"/>
+    <img alt="python" src="img/python.png" height=30 title="Python" />
+    <img height="30" hspace="5"/>
+    <img alt="rust" src="img/rust.png" height=30 title="Rust" />
+    <img height="30" hspace="5"/>
+    <img alt="node.js" src="img/node.png" height=30 title="Node.js" />
   </p>
 </div>
 <div align="right">
   <h3>🖥My favorite OS</h3>
 
   <p>
-    <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height=25 />
-    <img alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height=25 />
-    <img alt="android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height=25 />
-    <img alt="linuxmint" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" height=25 />
+    <img alt="ubuntu" src="img/ubuntu.png" height=35 title="Ubuntu" />
+    <img height="35" hspace="5"/>
+    <img alt="windows" src="img/windows.png" height=35 title="Windows" />
+    <img height="35" hspace="5"/>
+    <img alt="android" src="img/android.png" height=35 title="Android" />
+    <img height="35" hspace="5"/>
+    <img alt="linuxmint" src="img/linuxmint.png" height=35 title="Linux Mint" />
   </p>
 </div>
 
@@ -48,9 +70,11 @@ I am a nomadic French developer. I like the code, the life, the travel and all t
   <h2>✉️Contacts</h2>
 
   <p>
-    <a href="https://www.linkedin.com/in/erwann-martin-988b21158"><img alt="linkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=30 /></a>
-    <a href="mailto:erwann.martin.dev@gmail.com"><img title="erwann.martin.dev@gmail.com" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=30 /></a>
-    <a href="https://twitter.com/ErwannMartin3"><img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height=30 /></a>
+    <a href="https://www.linkedin.com/in/erwann-martin-988b21158"><img alt="linkedIn" src="img/linkedin.png" height=40 /></a>
+    <img height="35" hspace="15"/>
+    <a href="mailto:erwann.martin.dev@gmail.com"><img title="erwann.martin.dev@gmail.com" alt="gmail" src="img/gmail.png" height=40 /></a>
+    <img height="35" hspace="15"/>
+    <a href="https://twitter.com/ErwannMartin3"><img alt="twitter" src="img/twitter.png" height=40 /></a>
   </p>
 </div>
 
