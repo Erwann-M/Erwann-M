@@ -1,9 +1,9 @@
-<h1 align="center">👋 Welcome to my GitHub profile 👋<br><br></h1>
+<h1 align="center">👋 Welcome to my GitHub profile ! 👋<br><br></h1>
 
 <br>
 <img alt="github-stats" align="right" src="https://github-readme-stats.vercel.app/api?username=Erwann-M&theme=onedark&show_icons=true" />
 
-I am a nomadic French developer. I like the code, the life, the travel and all that is eaten.🍔
+<p>Hi, I'm Erwann.<br> I am a young French developer. I have been living nomadically for several years, I am passionate about development and tech in general.</p>
 
 <h2>🛠Techs I use</h2>
 
@@ -30,6 +30,7 @@ I am a nomadic French developer. I like the code, the life, the travel and all t
   <img height="30" hspace="5"/>
   <img alt="solana" src="img/solana.png" height="30" title="Solana CLI" />
   <img height="30" hspace="5"/>
+  <br>
   <br>
 </p>
 
