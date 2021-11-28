@@ -5,7 +5,7 @@
 
 <p>Hi, I'm Erwann.<br> I am a young French developer. I have been living nomadically for several years, I am passionate about development and tech in general.</p>
 
-<h2>🛠Techs I use</h2>
+<h2>🛠 Techs I use</h2>
 
 <p>
   <img alt="html" src="img/html.png" height=30 title="HTML" />
@@ -33,13 +33,11 @@
   <br>
   <br>
 </p>
-<hr>
-<br>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erwann-M&layout=compact&theme=onedark" height=200 />
 
 <div align="right">
-  <h2>🔬Techs I learn</h3>
+  <h2>🔬 Techs I learn</h3>
 
   <p>
     <img alt="react" src="img/react.png" height=30 title="React" />
@@ -54,7 +52,7 @@
   </p>
 </div>
 <div align="right">
-  <h2>🖥My favorite OS</h3>
+  <h2>🖥 My favorite OS</h3>
 
   <p>
     <img alt="ubuntu" src="img/ubuntu.png" height=35 title="Ubuntu" />
@@ -70,7 +68,7 @@
 <br>
 
 <div align="center">
-  <h2>✉️Contacts</h2>
+  <h2>✉️ Contacts</h2>
 
   <p>
     <a href="https://www.linkedin.com/in/erwann-martin-988b21158"><img alt="linkedIn" src="img/linkedin.png" height=40 /></a>
