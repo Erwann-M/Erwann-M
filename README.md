@@ -31,6 +31,7 @@
   <img height="30" hspace="5"/>
   <img alt="solana" src="img/solana.png" height="30" title="Solana CLI" />
   <img height="30" hspace="5"/>
+  <img alt="bootstrap" src="img/bootstrap.png" height="30" title="Bootstrap" />
   <br>
   <br>
 </p>
