@@ -34,6 +34,10 @@
   <img alt="bootstrap" src="img/bootstrap.png" height="30" title="Bootstrap" />
   <img height="30" hspace="5"/>
   <img alt="python" src="img/python.png" height=30 title="Python" />
+  <img height="30" hspace="5"/>
+  <img alt="react" src="img/react.png" height=30 title="React" />
+  <img height="30" hspace="5"/>
+  <img alt="redux" src="img/redux.png" height=30 title="Redux" />
  
   <br>
   <br>
@@ -45,10 +49,6 @@
   <h2>🔬 Techs I learn</h3>
 
   <p>
-    <img alt="react" src="img/react.png" height=30 title="React" />
-    <img height="30" hspace="5"/>
-    <img alt="redux" src="img/redux.png" height=30 title="Redux" />
-    <img height="30" hspace="5"/>
     <img alt="rust" src="img/rust.png" height=30 title="Rust" />
     <img height="30" hspace="5"/>
     <img alt="node.js" src="img/node.png" height=30 title="Node.js" />
